@@ -2027,7 +2027,7 @@ fr:
         order_summary_canceled: Sommaire de la commande [ANNULÉE]
         subject: Annulation de la commande
         subtotal: 'Sous-total: %{subtotal}'
-        thanks: Merci pour votre entreprise.
+        thanks: Merci
         total: 'Total de la commande: %{total}'
       confirm_email:
         dear_customer: Cher client,
