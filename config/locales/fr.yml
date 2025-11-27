@@ -2143,10 +2143,7 @@ fr:
         featured_taxon_heading_new_arrivals: "Nouveautés"
         featured_taxon_heading_on_sale: "En solde"
         image_with_text_heading: "À propos de nous"
-        image_with_text_text: "Bienvenue dans notre boutique ! We carefully curate high-quality
-          products that we believe in. Our process involves rigorous testing and selection
-          to ensure we only offer items that meet our standards. We're passionate
-          about delivering exceptional value and service to our customers."
+        image_with_text_text: "Bienvenue dans notre boutique ! Nous sélectionnons avec soin des produits de haute qualité en lesquels nous croyons. Notre processus implique des tests et une sélection rigoureux pour garantir que nous n'offrons que des articles répondant à nos normes. Nous sommes passionnés par l'idée d'offrir une valeur et un service exceptionnels à nos clients."
       password:
         newsletter_heading: "Ouverture prochaine"
         newsletter_text: "Soyez le premier à savoir quand nous lançons."
