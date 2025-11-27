@@ -376,7 +376,7 @@ fr:
         weight: Poids
         width: Largeur
       spree/wished_item:
-        variant: '
+        variant: ''
       spree/zone:
         default_tax: Zone fiscale standard
         description: Description
@@ -757,8 +757,8 @@ fr:
       not_found: Non trouvé(e)
       not_locked: n'est pas bloqué
       not_saved:
-        one: "%{resource} n'a pu etre sauvegardé à cause d" 1 erreur:"
-        other: "%{resource} n'a pu etre sauvegardé à cause de %{count} erreurs:"
+        one: "%{resource} n'a pu être sauvegardé à cause d'une erreur :"
+        other: "%{resource} n'a pu être sauvegardé à cause de %{count} erreurs :"
   number:
     currency:
       format:
@@ -1926,7 +1926,7 @@ fr:
         ignore_disclaimer: "Si vous n'avez pas demandé cela, ignorez cet email."
         instructions: "Veuillez cliquer sur le bouton ci-dessous pour vérifier votre adresse email."
         message_copy_link: "Si le bouton ne fonctionne pas, copiez le lien suivant dans votre navigateur :"
-        store_team: "L'équipe %{store_name}"
+        store_team: "%{store_name}"
         subject: "Vérifiez votre adresse email"
         thanks: "Merci"
         verify_email_address_link: "Vérifier l'adresse email"
@@ -2055,7 +2055,7 @@ fr:
         order_summary: Récapitulatif de la commande %{number}
         subject: "%{store_name} a reçu une nouvelle commande"
         thanks: Merci
-      store_team: Équipe %{store_name}
+      store_team: "%{store_name}"
       subtotal: "Sous-total:"
       total: "Total:"
     order_not_found: Impossible de trouver votre commande. Merci d'essayer à nouveau.
@@ -2401,7 +2401,7 @@ fr:
         for: pour
         instructions: Votre remboursement a été effectué.
         refund_summary: Crédit version courte
-        store_team: Équipe %{store_name}
+        store_team: "%{store_name}"
         subject: Matière
         thanks: Merci beaucoup
         total_refunded: "Valeur totale des crédits: %{total}"
@@ -2549,7 +2549,7 @@ fr:
         instructions: Votre commande a été expédiée
         shipment_summary: Résumé de l'expédition
         shipping_method: "Méthode d'expédition: %{shipping_method}"
-        store_team: Équipe "%{store_name}"
+        store_team: "%{store_name}"
         subject: Notification d'expédition
         thanks: Merci
         track_information: "Numéro de suivi: %{tracking}"
@@ -2775,10 +2775,8 @@ fr:
       default_country_help: C'est le pays qui sera présélectionné sur le formulaire
         d'adresse de paiement
       footer_help: Ce contenu est visible dans la section pied de page de votre boutique
-      languages_help: Installez l "<a href="https://github.com/spree-contrib/spree_i18n
-        target="_blank" class="alert-link"> l'extension Spree I18n </a> pour ajouter
-        d'autres langues
-      locales_help: "Installez l"<a href="https://github.com/spree-contrib/spree_i18n" target="_blank" class="alert-link">extension Spree I18n</a> pour ajouter plus de langues"
+      languages_help: "Installez l'<a href='https://github.com/spree-contrib/spree_i18n' target='_blank' class='alert-link'> l'extension Spree I18n </a> pour ajouter d'autres langues"
+      locales_help: "Installez l'<a href='https://github.com/spree-contrib/spree_i18n' target='_blank' class='alert-link'>extension Spree I18n</a> pour ajouter plus de langues"
       mail_from_address_help: Ceci est l'e-mail qui sera l'expéditeur de tous les
         e-mails de votre boutique (confirmation de commande, notification d'expédition,
         etc.)
