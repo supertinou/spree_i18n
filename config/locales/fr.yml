@@ -301,7 +301,7 @@ fr:
         internal_name: Nom interne
         name: Nom
         phone: Téléphone
-        propagate_all_variants: Transféré à toutes les variantes
+        propagate_all_variants: Transférer à toutes les variantes
         state_id: Etat
         zipcode: Code postal
       spree/stock_movement:
@@ -422,8 +422,7 @@ fr:
           attributes:
             attachment:
               attachment_must_be_present: Doit être là
-              not_allowed_content_type: Le type de contenu n'est pas autorisé Zone
-                fiscale standard
+              not_allowed_content_type: Le type de contenu n'est pas autorisé
         spree/import:
           attributes:
             attachment:
@@ -2978,10 +2977,10 @@ fr:
     verified_at: "Vérifié at"
     version: Version
     view: "Voir"
-    view_all: "Voir all"
-    view_full_details: "Voir full details"
-    view_store: "Voir store"
-    view_your_store: "Voir your store"
+    view_all: "Tout voir"
+    view_full_details: "Voir les détails"
+    view_store: "Voir la boutique"
+    view_your_store: "Voir votre boutique"
     visibility: "Visibilité"
     visits: "Visites"
     void: Annuler
