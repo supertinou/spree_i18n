@@ -1926,7 +1926,7 @@ fr:
         ignore_disclaimer: 'Si vous n'avez pas demandé cela, ignorez cet email.'
         instructions: 'Veuillez cliquer sur le bouton ci-dessous pour vérifier votre adresse email.'
         message_copy_link: 'Si le bouton ne fonctionne pas, copiez le lien suivant dans votre navigateur :'
-        store_team: 'L'équipe %{store_name}'
+        store_team: "L'équipe %{store_name}"
         subject: 'Vérifiez votre adresse email'
         thanks: 'Merci'
         verify_email_address_link: 'Vérifier l'adresse email'
@@ -2036,7 +2036,7 @@ fr:
         order_summary: Sommaire de la commande
         subject: Confirmation de commande
         subtotal: Sous-total de la commande
-        thanks: Merci d'avoir fait affaire avec nous,
+        thanks: Merci pour votre achat,
         total: 'Total de la commande: %{total}'
       inventory_cancellation:
         dear_customer: Cher client,
@@ -2554,7 +2554,7 @@ fr:
         shipping_method: 'Méthode d''expédition: %{shipping_method}'
         store_team: Équipe '%{store_name}'
         subject: Notification d'expédition
-        thanks: Merci pour votre activité,
+        thanks: Merci
         track_information: 'Suivi de l''Information: %{tracking}'
         track_link: 'Lien du traqueur: %{url}'
     shipment_refunded_message: 'Vous recevrez un remboursement dans les prochains jours.'
