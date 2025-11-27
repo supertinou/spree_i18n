@@ -2552,8 +2552,8 @@ fr:
         store_team: Équipe "%{store_name}"
         subject: Notification d'expédition
         thanks: Merci
-        track_information: "Suivi de l'Information: %{tracking}"
-        track_link: "Lien du traqueur: %{url}"
+        track_information: "Numéro de suivi: %{tracking}"
+        track_link: "Lien pour suivre la livraison: %{url}"
     shipment_refunded_message: "Vous recevrez un remboursement dans les prochains jours."
     shipment_state: État de livraison
     shipment_states:
