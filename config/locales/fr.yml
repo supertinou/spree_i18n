@@ -1910,6 +1910,7 @@ fr:
     shipping_instructions: Instructions de livraison
     shipping_method: Méthode de livraison
     shipping_methods: Méthodes de livraison
+    shipping_policy: Politique de livraison
     shipping_price_sack: Prix groupé
     shipping_rate:
       display_price:
