@@ -1493,6 +1493,7 @@ fr:
       variant_not_deleted: La variante n'a pas pu être supprimée
       icon_removed: "L'image a été supprimée avec succès"
       prices_saved: Prix enregistrés avec succès
+    notify_me_when_available: Me notifier quand disponible
     num_orders: Nombre de commandes
     number: Nombre
     ok: OK
