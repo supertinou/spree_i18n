@@ -1299,7 +1299,7 @@ fr:
     copied: "Copié !"
     copy: "Copier"
     copy_id: "Copier ID"
-    copy_link: "Copier link"
+    copy_link: "Copier le lien"
     cost_currency: Devise du prix
     cost_price: Prix coûtant
     could_not_connect_to_jirafe: Impossible de se connecter à Jirafe pour synchroniser
@@ -1731,7 +1731,7 @@ fr:
         subject: "%{invitee_name} a accepté votre invitation à rejoindre %{resource_name}"
       invitation_email:
         body: "%{inviter_name} vous a invité à rejoindre %{resource_name}"
-        link_description: "À accept this invitation, please click the link
+        link_description: "Pour accepter cette invitation, veuillez cliquer sur le lien
           below:"
         subject: "Invitation à rejoindre %{resource_name}"
       thanks: "Merci,"
@@ -2885,12 +2885,12 @@ fr:
     time: Temps
     timezone: "Fuseau horaire"
     title: "Titre"
-    title_link: "Titre link"
+    title_link: "Lien du titre"
     to: "À"
     to_add_variants_you_must_first_define: Pour ajouter des variantes, vous devez
       premièrement définir
-    toggle_menu: "Àggle menu"
-    top_suggestions: "Àp suggestions"
+    toggle_menu: "Menu"
+    top_suggestions: "Meilleures suggestions"
     total: Total
     total_per_item:
     total_pre_tax_refund:
