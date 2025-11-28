@@ -136,7 +136,7 @@ fr:
         ip_address: Adresse IP
         item_count: Articles
         item_total: Nombre total d'articles
-        number: Nombre
+        number: Numéro
         payment_state: État du paiement
         shipment_state: État du colis
         shipment_total: Total d'envoi
@@ -1288,7 +1288,7 @@ fr:
     confirm_order: Confirmer la commande
     confirm_password: Confirmation du mot de passe
     contact: Contact
-    contact_information: Contact information
+    contact_information: Informations de contact
     contact_phone: Numéro du contact
     contact_us: Contactez nous
     container_alignment: Alignement du conteneur
@@ -1642,7 +1642,7 @@ fr:
     gift_card_removed: La carte cadeau a été retirée de votre commande avec succès
     gift_card_using_store_credit_error: Vous ne pouvez pas appliquer la carte cadeau
       après le crédit magasin.
-    gift_cards: Carte cadeaus
+    gift_cards: Cartes cadeaux
     go_to_category: Vers la catégorie
     go_to_facebook: Sur Facebook
     go_to_homepage: Vers la page d'accueil
@@ -1943,8 +1943,8 @@ fr:
         subject: Vérifiez votre adresse email
         thanks: Merci
         verify_email_address_link: Vérifier l'adresse email
-    newsletter_subscribers: Actualitésletter Subscribers
-    newsletters: Actualitésletters
+    newsletter_subscribers: Abonnés à la newsletter
+    newsletters: Newsletters
     next: Suivant
     no_actions_added: Aucune action ajoutée
     no_address_given: Aucune adresse donnée
@@ -2626,7 +2626,7 @@ fr:
     shipping_total: Total livraison
     shipping_zone: Zone de livraison
     shipping_zone_help: La zone limite les pays ou états de livraison.
-    shop_all: Tout acheter
+    shop_all: Faites vos courses
     shop_by_taxonomy: Acheter par %{taxonomy}
     shopping_cart: Panier
     show: Afficher
@@ -2865,10 +2865,10 @@ fr:
         gift_card_amount_applied: La carte cadeau %{code} a appliqué %{amount} à votre
           commande.
         it_seems_you_already_have_an_account_html: Il semble que vous ayez déjà un
-          compte chez nous. Veuillez %{link} pour continuer.
+          compte chez nous. %{link} pour continuer.
         or_continue_below: ou continuer ci-dessous
         order_already_paid: Vous n'avez rien à payer, cliquez simplement sur le bouton
-          Confirmer pour valider la commande.
+          Confirmer pour valider la commande.  
         order_success: Votre commande est confirmée !
         order_success_message: Lorsque votre commande sera prête, vous recevrez un
           e-mail de confirmation.
@@ -2947,7 +2947,7 @@ fr:
     stores: Magasins
     street_address: Adresse
     street_address_2: Adresse (suite)
-    subscribed: Abonné
+    subscribed: abonné
     subtotal: Sous-total
     subtract: Soustraire
     success:
