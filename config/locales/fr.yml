@@ -2388,7 +2388,7 @@ fr:
     provider: Fournisseur
     provider_settings_warning: Si vous éditez le type de fournisseur, vous devez d'abord
       sauvegarder avant de pouvoir éditer les paramètre du fournisseur
-    published_at: Publiered at
+    published_at: Publié le
     purchased_quantity: Montant acheté
     qty: Qté
     quantity: Quantité
@@ -2608,7 +2608,7 @@ fr:
     shipping_method: Méthode de livraison
     shipping_methods: Méthodes de livraison
     shipping_not_available: Livraison non disponible
-    shipping_policy: Politique de livraison
+    shipping_policy: Politiques de livraison
     shipping_price_sack: Prix groupé
     shipping_rate:
       display_price:
