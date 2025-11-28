@@ -1232,6 +1232,7 @@ fr:
       one: Sous-total (1 article)
       other: Sous-total (%{count} articles)
     categories: Catégories
+    category: Catégorie
     categorization: Catégorisation
     category: Categorie
     category_nav_bar:
@@ -1244,7 +1245,7 @@ fr:
     change_password: Changer password
     changes_published: Changers published!
     channel: canal
-    charged: Chargé
+    charged: debité
     check_for_spree_alerts: Recevoir les alertes de Spree
     checkout: Passer la commande
     checkout_message: Message de paiement
